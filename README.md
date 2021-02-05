@@ -20,3 +20,4 @@ Running awarenessbot.py has multiple steps. First, a screenshot is taken in HTML
 python awarenessbot.py
 ```
 
+Created in Summer of 2020
